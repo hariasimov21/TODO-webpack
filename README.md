@@ -14,3 +14,5 @@ npm run build
 ````
 
 Siguamos adeñante!
+
+https://www.runtastic.com/blog/es/como-empezar-a-entrenar/
