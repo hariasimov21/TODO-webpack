@@ -1,8 +1,9 @@
-# Plantilla incial 
+# Proyecto TODO del curso JS 
 
-para realizar proyectos en Webpack.
+Primer proyecto **TODO** del modulo 2 del curso JS de FH.
 
-### Notas:
+## Pasos al inicializar
+
 Recordar reconstruir los módulos de Node
 ````
 npm install
@@ -13,6 +14,5 @@ y para construir el build :
 npm run build
 ````
 
-Siguamos adeñante!
 
-https://www.runtastic.com/blog/es/como-empezar-a-entrenar/
+
