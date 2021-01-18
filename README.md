@@ -13,6 +13,6 @@ y para construir el build :
 ````
 npm run build
 ````
-
+se realizó un programa sencillo de Todos por hacer utilizando solamente JS Vanilla. 
 
 
